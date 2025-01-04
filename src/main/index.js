@@ -107,7 +107,7 @@ function menuSetup() {
 				//   click: e => {
 				//     mainWindow.isLightMode = e.checked;
 				//   }
-				// },
+			
 				{
 					type: "separator",
 				},
