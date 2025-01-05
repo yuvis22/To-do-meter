@@ -104,9 +104,7 @@ function menuSetup() {
 		{
 			label: "View",
 			submenu: [
-				//   click: e => {
-				//     mainWindow.isLightMode = e.checked;
-				//   }
+				
 			
 				{
 					type: "separator",
