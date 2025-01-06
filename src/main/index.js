@@ -104,10 +104,6 @@ function menuSetup() {
 		{
 			label: "View",
 			submenu: [
-				// {
-				//   label: "Light mode",
-				//   type: "checkbox",
-				//   checked: false,
 				//   click: e => {
 				//     mainWindow.isLightMode = e.checked;
 				//   }
